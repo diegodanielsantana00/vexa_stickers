@@ -1,6 +1,6 @@
 # 📱 Vexa Stickers
 
-> An app to make your life easier
+> An ChatBot to turn image into sticker
 
 ## Prerequisites
   • Node.js 15.14.0
