@@ -1,4 +1,4 @@
-# 📱 Generator Number Vexa
+# 📱 Vexa Stickers
 
 > An app to make your life easier
 
