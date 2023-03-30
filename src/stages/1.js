@@ -15,7 +15,7 @@ function execute(user, msg, name, client) {
   
     case "2": case "2️⃣": case "Dois": case "Número dois":
       return [
-        "👨‍🎨DOAÇÕES\n\nPIX:", "1f330706-b34e-485f-8cb5-652c655565c8"
+        "👨‍🎨DOAÇÕES\n\nPIX:", ""
       ];
   
     default:
